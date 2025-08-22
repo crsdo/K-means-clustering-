@@ -2,14 +2,9 @@
 
 This project implements the **K-Means clustering algorithm** entirely from scratch in Python, as part of the CS412 coursework at UIUC. It demonstrates both the **mathematical foundations** of unsupervised learning and its **practical applications** in grouping geospatial and categorical data.  
  
-
----
 ## 📊 Visualization
 
-Here’s an example of how K-Means partitions data into distinct groups:
-
-![K-Means Clustering Visualization](<img width="769" height="802" alt="image" src="https://github.com/user-attachments/assets/c60fc347-d4d1-44a2-a103-eafee46d999c" />
-)
+<img src="https://github.com/user-attachments/assets/c60fc347-d4d1-44a2-a103-eafee46d999c" alt="K-Means Clustering Visualization" width="400"/>
 
 
 ## 📌 Project Overview  
