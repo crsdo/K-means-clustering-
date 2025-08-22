@@ -46,9 +46,9 @@ Clusters represent emerging groups in the dataset (e.g., geographic regions or c
 
 - Implement smarter centroid initialization (K-Means++)
 
--Visualize clusters using matplotlib / Plotly
+- Visualize clusters using matplotlib / Plotly
 
--Compare clustering quality with hierarchical and DBSCAN methods
+- Compare clustering quality with hierarchical and DBSCAN methods
 
 ## 🏫 Academic Context
 
