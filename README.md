@@ -18,7 +18,6 @@ This project implements the **K-Means clustering algorithm** entirely from scrat
   - Convergence detection  
   - Output includes cluster assignments for each data point  
 
----
 
 ## 🔑 Key Features  
 
@@ -26,7 +25,6 @@ This project implements the **K-Means clustering algorithm** entirely from scrat
 - **Structured Output** → results written to `clusters.txt` for clear visualization of assignments  
 - **Educational Value** → demonstrates concepts of distance calculation, iterative optimization, and unsupervised learning in a reproducible way  
 
----
 
 ## 🧠 Why It Matters  
 
@@ -34,13 +32,24 @@ K-Means is one of the **cornerstones of unsupervised learning**. Understanding i
 - Customer segmentation in business intelligence  
 - Image compression & pattern recognition  
 - Recommender systems and anomaly detection  
-- Decision science applications where groups emerge naturally from data  
+- Decision science applications where groups emerge naturally from data
 
----
+## 📊 Sample Output
+```
+Point 0 → Cluster 1
+Point 1 → Cluster 0
+Point 2 → Cluster 2
+```
+Clusters represent emerging groups in the dataset (e.g., geographic regions or categories with shared attributes).
 
-## ⚙️ How to Run  
+## 🔮 Future Enhancements
 
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/<your-username>/kmeans-from-scratch.git
-   cd kmeans-from-scratch
+- Implement smarter centroid initialization (K-Means++)
+
+-Visualize clusters using matplotlib / Plotly
+
+-Compare clustering quality with hierarchical and DBSCAN methods
+
+## 🏫 Academic Context
+
+This project was developed as part of CS412: Introduction to Data Mining at UIUC. It reflects both an academic understanding of machine learning principles and practical coding skills that scale to industry applications.
