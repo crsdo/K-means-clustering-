@@ -1,10 +1,15 @@
 # 🚀 K-Means Clustering from Scratch  
 
 This project implements the **K-Means clustering algorithm** entirely from scratch in Python, as part of the CS412 coursework at UIUC. It demonstrates both the **mathematical foundations** of unsupervised learning and its **practical applications** in grouping geospatial and categorical data.  
-
-As a current **MCS-DS candidate at the University of Illinois Urbana-Champaign (UIUC)**, I developed this repository to showcase my ability to combine **theory, coding, and data storytelling**—skills that directly transfer to real-world data science problems.  
+ 
 
 ---
+## 📊 Visualization
+
+Here’s an example of how K-Means partitions data into distinct groups:
+
+![K-Means Clustering Visualization](kmeans_visualization.png)
+
 
 ## 📌 Project Overview  
 
