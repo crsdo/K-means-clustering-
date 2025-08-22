@@ -8,7 +8,8 @@ This project implements the **K-Means clustering algorithm** entirely from scrat
 
 Here’s an example of how K-Means partitions data into distinct groups:
 
-![K-Means Clustering Visualization](kmeans_visualization.png)
+![K-Means Clustering Visualization](<img width="769" height="802" alt="image" src="https://github.com/user-attachments/assets/c60fc347-d4d1-44a2-a103-eafee46d999c" />
+)
 
 
 ## 📌 Project Overview  
