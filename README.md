@@ -4,7 +4,15 @@ This project implements the **K-Means clustering algorithm** entirely from scrat
  
 ## 📊 Visualization
 
-<img src="https://github.com/user-attachments/assets/c60fc347-d4d1-44a2-a103-eafee46d999c" alt="K-Means Clustering Visualization" width="400"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c60fc347-d4d1-44a2-a103-eafee46d999c" alt="K-Means Clustering Visualization" width="800"/>
+</p>
+
+## 🛠️ Tech Stack  
+- **Language**: Python  
+- **Libraries**: NumPy, Matplotlib (for visualization)  
+- **Environment**: Jupyter Notebook / Command Line  
+
 
 
 ## 📌 Project Overview  
@@ -53,3 +61,15 @@ Clusters represent emerging groups in the dataset (e.g., geographic regions or c
 ## 🏫 Academic Context
 
 This project was developed as part of CS412: Introduction to Data Mining at UIUC. It reflects both an academic understanding of machine learning principles and practical coding skills that scale to industry applications.
+
+## 💡 Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- Distance metrics and similarity functions
+
+- Iterative optimization and convergence in ML
+
+- Structuring Python code for readability and reproducibility
+
+- Presenting machine learning results in a business-facing context
